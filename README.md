@@ -31,6 +31,9 @@ If you find these solutions helpful or are on the same journey, feel free to ⭐
 ---
 ## 🚀 Getting Started
 You can run any solution by cloning the repo:
- > git clone https://github.com/gayatriakhila/hackerrank-python-solutions.git
- > cd hackerrank-python-solutions
- > python filename.py
+
+git clone https://github.com/gayatriakhila/hackerrank-python-solutions.git
+
+cd hackerrank-python-solutions
+
+python filename.py
